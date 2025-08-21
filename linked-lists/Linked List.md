@@ -1,7 +1,7 @@
 # Linked List
 `A  linked list is a data structure that consist of nodes, where each node contains a data and a reference pointer to the next node `
 - Entry point to linked list is called as head
-- If list is empty the head is null refrence
+- If list is empty the head is null reference
 - 
 ### Types of linked list 
 - [[Singly Linked Lists]] - nodes point only to the next node

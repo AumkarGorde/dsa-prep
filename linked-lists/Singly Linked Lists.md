@@ -8,7 +8,7 @@
 - Traversal is one way - forward only 
 
 ### Basic operations
-- Traversal - visit each node starting from the head
+- Traversal - visit each node starting from the headok
 - Insertion - Adding a node at :
 	- Beginning 
 	- End 
