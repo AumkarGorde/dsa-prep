@@ -15,3 +15,7 @@
 - The memory address of element in `i = 3` is :
 	- addr = base + i * size
 	- addr = 1000 + 3 * 4 = 1000 + 12 = 1012 
+
+## Problems
+1.  [[217 - Contains Duplicate]] 
+2. [[242 - Valid Anagram]] 
