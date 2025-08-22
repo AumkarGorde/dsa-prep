@@ -57,10 +57,40 @@ print(Solution().addDigits(256))
   Output:
   13
   ```
-`Reverse a string/array using recursion`
-2. `Palindrome check`
-3. `Power of a number (fast exotential)`
+`Print numbers from 1 to n - Head recusrion`
 
 ```
-
+class Solution:
+    def print_num(self, num: int)-> None:
+        if num == 0:
+            return
+        self.print_num(num-1)
+        print(num)
+    
+Solution().print_num(4)
+```
+```
+Output:
+1
+2
+3
+4
+```
+`Print numbers from n to 1 - Tail recursion`
+```
+class Solution:
+    def print_num(self, num: int)-> None:
+        if num == 0:
+            return
+        print(num)
+        self.print_num(num-1)
+    
+Solution().print_num(4)
+```
+```
+Output:
+4
+3
+2
+1
 ```
