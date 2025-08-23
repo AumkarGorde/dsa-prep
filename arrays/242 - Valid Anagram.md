@@ -1,4 +1,5 @@
 # Valid Anagram
+#Hashtable 
 - Hints
 	- Easily solved by using dictionary
 	- Try solving by using one loop instead of 2 loops for w dictionary

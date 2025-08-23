@@ -1,4 +1,5 @@
 # Group Anagram
+#Hashtable
 - Hint 
 	- `ord("a") - ord("a") = 0` create a key that stores this hash logic for all a-z 
 	- so each string has unique hash now we just have to compare this hash with other hash

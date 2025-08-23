@@ -1,4 +1,5 @@
 # Contains Duplicate
+#Hashtable 
 
 - Hints 
 	- Use a hash-set (to store unique keys only)

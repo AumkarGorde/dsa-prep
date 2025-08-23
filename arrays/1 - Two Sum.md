@@ -1,4 +1,5 @@
 # Two Sum
+#Prefixsum
 - Hints 
 	- target - n = diff and this diff should be in dictionary with its in index
 	- check for adding duplicate keys to the same dic
