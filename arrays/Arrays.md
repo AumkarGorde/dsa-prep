@@ -19,3 +19,6 @@
 ## Problems
 1.  [[217 - Contains Duplicate]] 
 2. [[242 - Valid Anagram]] 
+3. [[1 - Two Sum]]
+4. [[49 - Group Anagram]]
+5. 
